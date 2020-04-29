@@ -12,4 +12,4 @@ Run the following command:
 
 Admin credentials
 username: admin@gmail.com
-password: admin123
+password: minad123456

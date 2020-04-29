@@ -1,6 +1,6 @@
-# expensemanager
+# ExpenseManagementSystem
 
-Database name: expensemanager
+Database name: expensemanager_db
 
 Run the following command:
   - npm install
